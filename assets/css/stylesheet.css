@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Ballet&display=swap');
 body {
     background-image: url(../img/lluvia.gif);
+    margin-top: 40px;
 }
 
 section {
     /* background-color: rgb(247, 205, 227); */
     background-color: rgb(172, 160, 206);
     color: rgb(255, 255, 255);
-    box-shadow: 0px 0px 30px rgba(213, 159, 235, 0.9);
+    box-shadow: inset 0px 0px 80px rgba(167, 152, 209, 0.9);
+    box-shadow: 0px 0px 60px rgba(167, 152, 209, 1);
 }
 
 section h1:hover {
