@@ -26,8 +26,8 @@ section pre:hover {
     width: 370px;
     height: 370px;
     background-color: rgb(240, 204, 222);
-    background-image: url(../img/cora.jpeg);
-    background-attachment: fixed;
+    background-image: url(../img/hearts.gif);
+    background-attachment: center;
     background-repeat: no-repeat;
     border-radius: 30%;
     display: flex;
