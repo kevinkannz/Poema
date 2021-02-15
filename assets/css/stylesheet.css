@@ -1,6 +1,7 @@
 section {
     background-color: rgb(247, 179, 216);
     color: rgb(255, 255, 255);
+    box-shadow: 30px 30px 30px rgba(199, 135, 175, 0.9);
 }
 
 section h1:hover {
