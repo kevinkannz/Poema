@@ -2,6 +2,7 @@ section {
     background-color: rgb(247, 179, 216);
     color: rgb(255, 255, 255);
     box-shadow: 30px 30px 30px rgba(199, 135, 175, 0.9);
+    justify-content: center;
 }
 
 section h1:hover {
@@ -14,9 +15,8 @@ section pre:hover {
 
 #caja {
     width: 50%;
-    margin: 30px;
+    margin: 0px;
     border-radius: 30px;
-    background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
