@@ -8,7 +8,7 @@ section {
     /* background-color: rgb(247, 205, 227); */
     background-color: rgb(172, 160, 206);
     color: rgb(255, 255, 255);
-    box-shadow: inset 0px 0px 80px rgba(167, 152, 209, 0.9);
+    box-shadow: inset 0px 0px 80px rgba(147, 125, 207, 1);
     box-shadow: 0px 0px 60px rgba(167, 152, 209, 1);
 }
 
@@ -23,7 +23,7 @@ section pre:hover {
 pre {
     font-size: 20px;
     text-align: center;
-    margin: 0;
+    margin: 5px;
 }
 
 h1 {
@@ -31,6 +31,19 @@ h1 {
     text-align: center;
     font-family: 'Ballet', cursive;
     margin: 10px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-family: 'Ballet', cursive;
+}
+
+section h2:hover {
+    color: rgb(240, 204, 222);
 }
 
 #caja {
