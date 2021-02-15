@@ -1,8 +1,7 @@
 section {
     background-color: rgb(247, 179, 216);
     color: rgb(255, 255, 255);
-    box-shadow: 30px 30px 30px rgba(199, 135, 175, 0.9);
-    justify-content: center;
+    box-shadow: 15px 35px 50px rgba(199, 135, 175, 0.9);
 }
 
 section h1:hover {
@@ -20,7 +19,10 @@ section pre:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-top: 500px;
     align-items: center;
+    width: 800px;
+    margin: 0 auto;
 }
 
 #imagenRosa {
